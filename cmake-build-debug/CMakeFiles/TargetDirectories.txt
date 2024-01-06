@@ -1,0 +1,3 @@
+/Users/Stsiapan.Bahrytsevich/Documents/GitHub/spectre-attack/cmake-build-debug/CMakeFiles/spectre.dir
+/Users/Stsiapan.Bahrytsevich/Documents/GitHub/spectre-attack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Stsiapan.Bahrytsevich/Documents/GitHub/spectre-attack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
